@@ -14,7 +14,8 @@ module.exports = {
       {
         ga: "UA-84859153-3"
       }
-    ]
+    ],
+    ["@dovyp/vuepress-plugin-clipboard-copy", true]
   ],
   head: [
     [
